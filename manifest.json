@@ -1,6 +1,6 @@
 {
   "name": "Field Material Management App",
-  "short_name": "Mat App",
+  "short_name": "Materials Counting",
   "description": "Field Material Management App - Track materials offline",
   "start_url": "./index.html",
   "display": "standalone",
